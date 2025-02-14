@@ -2,6 +2,7 @@
 .page{
     background-color: #f0afe7;
     background-image: url(../img/Mediamodifier-Design\ \(2\).svg);
+     background-attachment: fixed;
     background-size: 20%;
     padding: 1.5em;
 }
